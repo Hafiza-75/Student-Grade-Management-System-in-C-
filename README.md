@@ -31,7 +31,10 @@ It is designed for **beginners learning C++**, focusing on basic input/output, a
 - **Compiler**: GCC / MinGW / MSVC
 
 ---
+##  Output:
 
+<img width="450" height="223" alt="image" src="https://github.com/user-attachments/assets/c7a93616-87c7-4997-a1df-d5dd4efa939a" />
+---
 ##  How to Run
 
 1. Clone or download the project folder  
